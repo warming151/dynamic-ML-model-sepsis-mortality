@@ -2,7 +2,7 @@
 Coding for paper "A machine learning model derived from analysis of time-course gene-expression datasets reveal temporally stable gene markers predictive of sepsis mortality"
 
 ## Running step
-Run "coconut_three_dataset.R" for downloading the public dataset and normalization by using COCONUT.
+Download the public dataset from GEO Database.
 
 "Limma" R package for obtaining bulk DEGs.
 
